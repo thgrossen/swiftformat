@@ -51,7 +51,7 @@
 --extensionacl      on-extension
 
 --rules             fileHeader
---header            /*******************************************************************************\n * The MIT License (MIT)\n * Copyright (c) 2025, Thomas Grossen\n ******************************************************************************/
+--header            /*******************************************************************************\n * The MIT License (MIT)\n * \n * Copyright (c) 2026, Thomas Grossen\n ******************************************************************************/
 
 --rules             hoistPatternLet
 --patternlet        inline
